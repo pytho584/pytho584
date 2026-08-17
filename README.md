@@ -1,40 +1,25 @@
 <div align="center">
 
-<img src="./assets/identity.svg" width="900" alt="Animated Aqua Launch identity with ASCII portrait and ASCII wordmark" />
+<img src="./assets/hero.svg" width="900" alt="Ember Command profile banner" />
 
 <br><br>
 
-<img src="./assets/contributions.svg" width="900" alt="Animated contribution activity with moving spacecraft" />
+<img src="./assets/signal.svg" width="900" alt="Ember Command GitHub telemetry" />
 
 <br><br>
 
-<img src="./assets/signal.svg" width="900" alt="Live GitHub profile signal and language stack" />
-
-<br><br>
-
-<a href="http://chartmasters.top/"><img src="https://img.shields.io/badge/PORTFOLIO-43ead3?style=for-the-badge&labelColor=071416&color=43ead3" alt="Portfolio" /></a>
-<a href="https://github.com/pytho584"><img src="https://img.shields.io/badge/GITHUB-4387ff?style=for-the-badge&logo=github&logoColor=dcfff7&labelColor=071416" alt="GitHub" /></a>
+<a href="https://artabidkhori.com"><img src="https://img.shields.io/badge/ENTER_PORTFOLIO-ff4d3d?style=for-the-badge&labelColor=171012" alt="Portfolio" /></a>
+<a href="https://github.com/Jenesyx"><img src="https://img.shields.io/badge/OPEN_GITHUB-ff8a1f?style=for-the-badge&logo=github&logoColor=fff4e6&labelColor=171012" alt="GitHub" /></a>
+<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/CONNECT-ffc857?style=for-the-badge&logo=linkedin&logoColor=171012&labelColor=171012" alt="LinkedIn" /></a>
 
 <br>
 
-<sub><strong>PYTHO584</strong> · animated profile system · powered by live GitHub data</sub>
+<sub><strong>EMBER COMMAND</strong> · original profile system · generated from GitHub public data</sub>
 
 </div>
 
 ---
 
-### About
-
-I'm **Abolfazl Roytavand**, a full-stack developer and AI automation builder.
-
-I build web projects, AI tools and automation workflows.
-
-### Tech Stack
-
-`JavaScript` · `Python` · `React` · `Next.js` · `n8n` · `AI`
-
----
-
 ### Deploy this style
 
-Follow [SETUP.md](./SETUP.md) to replace the photo, animate your own name, connect your GitHub data, and enable automatic daily updates.
+Everything required to customize and install this profile is in [SETUP.md](./SETUP.md). The artwork is generated locally, uses no paid API, and does not depend on a third-party stats-card service.

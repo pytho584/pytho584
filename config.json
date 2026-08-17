@@ -1,11 +1,11 @@
 {
   "username": "pytho584",
   "name": "Abolfazl Roytavand",
-  "wordmark": "PYTHO",
-  "role": "Full-stack developer · AI automation builder",
+  "role": "Full-stack Developer & AI Automation Builder",
   "location": "Iran",
   "status": "Building web projects, AI tools and automation workflows.",
   "website": "http://chartmasters.top/",
-  "photo": "assets/profile-source.png",
-  "skills": ["JavaScript", "Python", "React", "Next.js", "n8n", "AI"]
+  "focus": "AI Automation · Web Development · Trading Tools",
+  "skills": ["JavaScript", "Python", "React", "Next.js", "n8n", "AI"],
+  "featured_repos": ["gradient", "gradient1", "dgrsager", "dashboeard"]
 }
