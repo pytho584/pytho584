@@ -1,0 +1,5 @@
+# Lightweight local portrait generation without ML background removal.
+-r requirements.txt
+pillow
+numpy
+opencv-python-headless

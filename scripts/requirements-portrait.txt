@@ -1,0 +1,8 @@
+# Local-only: needed to regenerate the ASCII portrait from a photo.
+# Never installed by the daily workflow.
+-r requirements.txt
+pillow
+numpy
+opencv-python
+rembg
+onnxruntime
