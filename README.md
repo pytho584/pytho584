@@ -1,4 +1,4 @@
-<div align="center">
+ft<div align="center">
 
 <h3><code>arta@github ~ $ ./contributions.sh</code></h3>
 
