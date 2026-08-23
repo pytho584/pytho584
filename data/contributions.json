@@ -1,47 +1,12 @@
 {
   "username": "pytho584",
-  "generated_at": "2026-08-22T06:58:05+00:00",
+  "generated_at": "2026-08-23T06:59:50+00:00",
   "range": {
-    "from": "2025-08-17",
-    "to": "2026-08-22"
+    "from": "2025-08-24",
+    "to": "2026-08-23"
   },
-  "total": 6497,
+  "total": 6498,
   "days": [
-    {
-      "date": "2025-08-17",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-18",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-19",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-20",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-21",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-22",
-      "count": 0,
-      "level": 0
-    },
-    {
-      "date": "2025-08-23",
-      "count": 0,
-      "level": 0
-    },
     {
       "date": "2025-08-24",
       "count": 0,
@@ -1859,19 +1824,24 @@
     },
     {
       "date": "2026-08-22",
+      "count": 1,
+      "level": 1
+    },
+    {
+      "date": "2026-08-23",
       "count": 0,
       "level": 0
     }
   ],
   "stats": {
-    "current_streak": 6,
-    "longest_streak": 6,
+    "current_streak": 7,
+    "longest_streak": 7,
     "best_day": {
       "date": "2026-08-12",
       "count": 6068
     },
-    "active_days": 13,
-    "daily_average": 17.51,
+    "active_days": 14,
+    "daily_average": 17.8,
     "monthly": {
       "2025-08": 0,
       "2025-09": 0,
@@ -1885,7 +1855,7 @@
       "2026-05": 1,
       "2026-06": 0,
       "2026-07": 0,
-      "2026-08": 6493
+      "2026-08": 6494
     }
   }
 }
